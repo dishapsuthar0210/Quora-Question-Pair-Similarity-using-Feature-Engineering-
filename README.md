@@ -3,7 +3,7 @@
 ---
 
 ## **Steps to generate the results.**
-**Step 1.** Clone the repo into local.
+#### **Step 1.** Clone the repo into local.
 ---
 ### **Step 2.** Run the file "1_Quora_EDA_Basic_Feature_Extraction.ipynb"
 ---
