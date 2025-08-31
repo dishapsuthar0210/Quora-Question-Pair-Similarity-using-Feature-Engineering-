@@ -5,13 +5,13 @@
 ## **Steps to generate the results.**
 #### **Step 1.** Clone the repo into local.
 ---
-### **Step 2.** Run the file "1_Quora_EDA_Basic_Feature_Extraction.ipynb"
+#### **Step 2.** Run the file "1_Quora_EDA_Basic_Feature_Extraction.ipynb"
 ---
-### **Step 3.** Run the file "2_Quora_Advanced_Feature_Enginnering_Visulization.ipynb"
+#### **Step 3.** Run the file "2_Quora_Advanced_Feature_Enginnering_Visulization.ipynb"
 ---
-### **Step 4.** Run the file "3_Quora_Embedding_&_Feature_Engineering.ipynb"
+#### **Step 4.** Run the file "3_Quora_Embedding_&_Feature_Engineering.ipynb"
 ---
-### **Step 5.** Run the "4_Quora_Model_Train_&_Results.ipnb"
+#### **Step 5.** Run the "4_Quora_Model_Train_&_Results.ipnb"
 
 ---
 
