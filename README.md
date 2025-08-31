@@ -1,6 +1,6 @@
 # Quora-Question-Pair-Similarity-using-Feature-Engineering-
 
-Steps to generate the results.
+**Steps to generate the results.**
 Step 1. Clone the repo into local.
 Step 2. Run the file "1_Quora_EDA_Basic_Feature_Extraction.ipynb"
 Step 3. Run the file "2_Quora_Advanced_Feature_Enginnering_Visulization.ipynb"
